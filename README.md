@@ -9,4 +9,4 @@ Modelo de dashboard para sistema, construido usando [MaterializeCSS](https://mat
 
 
 ## Preview versão mobile
-![mobile index](img/mobile.png)
+![mobile index](img/mobiles.png)
