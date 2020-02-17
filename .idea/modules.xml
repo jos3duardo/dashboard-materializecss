@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/materialize.iml" filepath="$PROJECT_DIR$/.idea/materialize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dashboard-materializecss/.idea/dashboard materialize.iml" filepath="$PROJECT_DIR$/../dashboard-materializecss/.idea/dashboard materialize.iml" />
     </modules>
   </component>
 </project>
